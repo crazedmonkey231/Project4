@@ -3857,3 +3857,46 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.11.23-16.52.09:958][580]SourceControl: Commited [main 5770f55] update for event controlled player controller.
 [2023.11.23-16.52.44:101][599]LogViewport: Scene viewport resized to 825x287, mode Windowed.
 [2023.11.23-16.52.44:623][599]LogViewport: Scene viewport resized to 1242x461, mode Windowed.
+[2023.11.23-16.56.23:206][648]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.56.23:206][648]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-17.01.45:673][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.11.23-17.01.45:675][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.042
+[2023.11.23-17.06.43:837][626]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-17.06.43:837][626]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-17.07.11:161][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/PlayerController/BP_EventControlled_PlayerController.BP_EventControlled_PlayerController
+[2023.11.23-17.07.11:161][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-17.07.11:162][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-17.07.35:297][816]LogSlate: Window 'BP_EventControlled_PlayerController' being destroyed
+[2023.11.23-17.07.35:305][816]LogSlate: Window 'BP_EventControlled_PlayerController' being destroyed
+[2023.11.23-17.07.35:309][816]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-17.07.35:309][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-17.10.20:376][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box
+[2023.11.23-17.10.20:376][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-17.10.20:376][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-17.11.12:357][740]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-17.11.12:364][740]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-17.11.12:368][740]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-17.11.12:368][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-17.11.23:856][109]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box
+[2023.11.23-17.11.23:856][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-17.11.23:856][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-17.11.39:145][332]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-17.11.39:152][332]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-17.11.39:156][332]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-17.11.39:156][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-17.11.44:280][825]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-17.11.44:280][825]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-17.12.07:021][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.23-17.12.07:024][893]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.027
+[2023.11.23-17.17.43:498][948]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-17.17.43:498][948]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-17.17.45:473][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.23-17.17.49:603][183]LogSlate: Window 'Save Content' being destroyed
+[2023.11.23-17.17.53:937][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.23-17.17.54:231][667]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-17.17.54:231][667]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-17.17.54:237][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-17.17.54:325][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.23-17.17.54:332][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.92 sec)
+[2023.11.23-17.17.54:610][698]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-17.17.54:610][698]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
