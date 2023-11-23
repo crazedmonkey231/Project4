@@ -3240,3 +3240,27 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.11.23-16.08.32:929][988]SourceControl: [main a2a3ceb] snap
 [2023.11.23-16.08.32:929][988]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
 [2023.11.23-16.08.32:942][988]SourceControl: Commited [main a2a3ceb] snap.
+[2023.11.23-16.08.51:344][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.23-16.08.51:713][793]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.08.51:713][793]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-16.08.51:718][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-16.08.51:811][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.23-16.08.51:812][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project4/Maps/Testing" FILE="C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Maps/Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.23-16.08.51:848][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.11.23-16.08.51:887][793]LogSavePackage: Moving output files for package: /Game/Project4/Maps/Testing
+[2023.11.23-16.08.51:887][793]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/Testing61A743F646B099D5ACA59DB3C6E51D5F.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Maps/Testing.umap'
+[2023.11.23-16.08.51:892][793]LogFileHelpers: All files are already saved.
+[2023.11.23-16.08.51:892][793]LogFileHelpers: Saving map 'Testing' took 0.080
+[2023.11.23-16.08.51:899][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 7.09 sec)
+[2023.11.23-16.08.51:901][793]AssetCheck: New page: Asset Save: Testing
+[2023.11.23-16.08.51:901][793]LogContentValidation: Display: Validating /Script/Engine.World /Game/Project4/Maps/Testing.Testing
+[2023.11.23-16.08.52:251][835]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.08.52:251][835]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-16.08.56:997][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.23-16.08.57:282][388]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.08.57:282][388]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-16.08.57:288][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-16.08.57:372][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.23-16.08.57:380][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.18 sec)
+[2023.11.23-16.08.57:641][417]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.08.57:641][417]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
