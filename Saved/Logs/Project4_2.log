@@ -2411,3 +2411,832 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.11.23-15.21.58:383][863]SourceControl: [main 2b3cfd8] smol refactor
 [2023.11.23-15.21.58:383][863]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2023.11.23-15.21.58:397][863]SourceControl: Commited [main 2b3cfd8] smol refactor.
+[2023.11.23-15.22.20:043][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-15.22.20:300][354]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.22.20:300][354]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.22.20:305][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-15.22.20:370][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.23-15.22.20:377][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.66 sec)
+[2023.11.23-15.22.20:625][383]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.22.20:625][383]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:971][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.26:972][ 89]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.22.27:063][ 89]EditorErrors: Warning: No assets to check in!
+[2023.11.23-15.25.00:578][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.23-15.25.00:579][852]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.016
+[2023.11.23-15.25.08:276][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.23-15.25.08:557][761]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.25.08:557][761]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.25.08:562][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-15.25.08:628][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.23-15.25.08:635][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 6.73 sec)
+[2023.11.23-15.25.08:885][791]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.25.08:885][791]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.26.25:640][425]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/BP_EventComponent.BP_EventComponent
+[2023.11.23-15.26.25:641][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.26.25:641][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.26.29:357][698]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.26.29:358][698]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.26.52:943][960]LogSlate: Window 'BP_EventComponent' being destroyed
+[2023.11.23-15.26.52:948][960]LogSlate: Window 'BP_EventComponent' being destroyed
+[2023.11.23-15.26.52:951][960]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.26.52:952][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.26.59:343][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component.BP_EventController_Component
+[2023.11.23-15.26.59:343][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.26.59:343][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.27.42:726][580]LogSlate: Window 'BP_EventController_Component' being destroyed
+[2023.11.23-15.27.42:733][580]LogSlate: Window 'BP_EventController_Component' being destroyed
+[2023.11.23-15.27.42:736][580]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.27.42:736][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.31.29:606][798]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.31.29:606][798]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.35.54:683][623]LogViewport: Scene viewport resized to 1345x390, mode Windowed.
+[2023.11.23-15.35.54:710][625]LogViewport: Scene viewport resized to 1345x391, mode Windowed.
+[2023.11.23-15.35.54:728][626]LogViewport: Scene viewport resized to 1345x394, mode Windowed.
+[2023.11.23-15.35.54:746][627]LogViewport: Scene viewport resized to 1345x396, mode Windowed.
+[2023.11.23-15.35.54:766][628]LogViewport: Scene viewport resized to 1345x401, mode Windowed.
+[2023.11.23-15.35.54:785][629]LogViewport: Scene viewport resized to 1345x407, mode Windowed.
+[2023.11.23-15.35.54:804][630]LogViewport: Scene viewport resized to 1345x412, mode Windowed.
+[2023.11.23-15.35.54:824][631]LogViewport: Scene viewport resized to 1345x417, mode Windowed.
+[2023.11.23-15.35.54:846][632]LogViewport: Scene viewport resized to 1345x428, mode Windowed.
+[2023.11.23-15.35.54:865][633]LogViewport: Scene viewport resized to 1345x435, mode Windowed.
+[2023.11.23-15.35.54:883][634]LogViewport: Scene viewport resized to 1345x440, mode Windowed.
+[2023.11.23-15.35.54:904][635]LogViewport: Scene viewport resized to 1345x445, mode Windowed.
+[2023.11.23-15.35.54:923][636]LogViewport: Scene viewport resized to 1345x449, mode Windowed.
+[2023.11.23-15.35.54:967][640]LogViewport: Scene viewport resized to 1345x451, mode Windowed.
+[2023.11.23-15.35.54:985][641]LogViewport: Scene viewport resized to 1345x454, mode Windowed.
+[2023.11.23-15.35.55:005][642]LogViewport: Scene viewport resized to 1345x460, mode Windowed.
+[2023.11.23-15.35.55:024][643]LogViewport: Scene viewport resized to 1345x466, mode Windowed.
+[2023.11.23-15.35.55:044][644]LogViewport: Scene viewport resized to 1345x476, mode Windowed.
+[2023.11.23-15.35.55:063][645]LogViewport: Scene viewport resized to 1345x483, mode Windowed.
+[2023.11.23-15.35.55:085][646]LogViewport: Scene viewport resized to 1345x490, mode Windowed.
+[2023.11.23-15.35.55:104][647]LogViewport: Scene viewport resized to 1345x494, mode Windowed.
+[2023.11.23-15.35.55:125][648]LogViewport: Scene viewport resized to 1345x499, mode Windowed.
+[2023.11.23-15.35.55:144][649]LogViewport: Scene viewport resized to 1345x504, mode Windowed.
+[2023.11.23-15.35.55:163][650]LogViewport: Scene viewport resized to 1345x509, mode Windowed.
+[2023.11.23-15.35.55:184][651]LogViewport: Scene viewport resized to 1345x514, mode Windowed.
+[2023.11.23-15.35.55:203][652]LogViewport: Scene viewport resized to 1345x515, mode Windowed.
+[2023.11.23-15.35.55:315][664]LogViewport: Scene viewport resized to 1345x512, mode Windowed.
+[2023.11.23-15.35.55:341][666]LogViewport: Scene viewport resized to 1345x511, mode Windowed.
+[2023.11.23-15.35.55:358][667]LogViewport: Scene viewport resized to 1345x508, mode Windowed.
+[2023.11.23-15.35.55:384][669]LogViewport: Scene viewport resized to 1345x507, mode Windowed.
+[2023.11.23-15.35.55:409][671]LogViewport: Scene viewport resized to 1345x505, mode Windowed.
+[2023.11.23-15.35.55:428][672]LogViewport: Scene viewport resized to 1345x503, mode Windowed.
+[2023.11.23-15.35.55:446][673]LogViewport: Scene viewport resized to 1345x501, mode Windowed.
+[2023.11.23-15.35.55:465][674]LogViewport: Scene viewport resized to 1345x498, mode Windowed.
+[2023.11.23-15.35.55:485][675]LogViewport: Scene viewport resized to 1345x495, mode Windowed.
+[2023.11.23-15.35.55:520][678]LogViewport: Scene viewport resized to 1345x494, mode Windowed.
+[2023.11.23-15.35.55:538][679]LogViewport: Scene viewport resized to 1345x491, mode Windowed.
+[2023.11.23-15.35.55:738][702]LogViewport: Scene viewport resized to 1345x492, mode Windowed.
+[2023.11.23-15.36.29:864][282]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.36.29:864][282]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.36.45:556][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.23-15.36.45:557][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.019
+[2023.11.23-15.41.30:453][876]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.41.30:453][876]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.43.18:951][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BPA_EventControlled_Marker_Actor.BPA_EventControlled_Marker_Actor
+[2023.11.23-15.43.18:952][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.43.18:952][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.43.26:484][740]BlueprintLog: New page: Compile BPA_EventControlled_Marker_Actor
+[2023.11.23-15.43.26:508][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.23-15.43.26:642][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-15.43.26:685][740]LogSavePackage: Moving output files for package: /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BPA_EventControlled_Marker_Actor
+[2023.11.23-15.43.26:685][740]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/BPA_EventControlled_Marker_Actor9E2EC8AA4AD94073D28DF99745EEA0CD.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BPA_EventControlled_Marker_Actor.uasset'
+[2023.11.23-15.43.26:689][740]LogSavePackage: Moving output files for package: /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child
+[2023.11.23-15.43.26:690][740]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/BP_EventControlled_Marker_Actor_A0B2C29C47FED5B0FAEF8C939B12B0FE.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.uasset'
+[2023.11.23-15.43.26:696][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 6.78 sec)
+[2023.11.23-15.43.26:710][740]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.23-15.43.26:710][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BPA_EventControlled_Marker_Actor.BPA_EventControlled_Marker_Actor
+[2023.11.23-15.43.26:710][740]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child
+[2023.11.23-15.43.33:865][547]LogSlate: Window 'BPA_EventControlled_Marker_Actor' being destroyed
+[2023.11.23-15.43.33:871][547]LogSlate: Window 'BPA_EventControlled_Marker_Actor' being destroyed
+[2023.11.23-15.43.33:875][547]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.43.33:875][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.43.39:665][222]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.39:665][222]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.39:666][222]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_0
+[2023.11.23-15.43.39:667][222]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_0
+[2023.11.23-15.43.39:669][222]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.23-15.43.40:934][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.40:934][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.40:936][372]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_1
+[2023.11.23-15.43.40:936][372]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_1
+[2023.11.23-15.43.41:682][446]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.41:682][446]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.41:683][446]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_2
+[2023.11.23-15.43.41:684][446]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_2
+[2023.11.23-15.43.42:744][541]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.42:744][541]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.42:745][541]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_3
+[2023.11.23-15.43.42:746][541]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_3
+[2023.11.23-15.43.43:560][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.43:560][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.43:561][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_4
+[2023.11.23-15.43.43:562][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_4
+[2023.11.23-15.43.44:190][679]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.44:190][679]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child_C
+[2023.11.23-15.43.44:192][679]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_5
+[2023.11.23-15.43.44:193][679]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.BP_EventControlled_Marker_Actor_Child as actor: BP_EventControlled_Marker_Actor_Child_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Marker_Actor_Child_C_5
+[2023.11.23-15.44.00:384][600]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box
+[2023.11.23-15.44.00:384][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.44.00:384][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.44.09:776][433]BlueprintLog: New page: Compile BP_EventControlled_Trigger_Box
+[2023.11.23-15.44.09:807][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.23-15.44.09:942][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-15.44.09:995][433]LogSavePackage: Moving output files for package: /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box
+[2023.11.23-15.44.09:996][433]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/BP_EventControlled_Trigger_Box1354D4F649965708FFFE329C43F06ECB.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.uasset'
+[2023.11.23-15.44.10:001][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 6.84 sec)
+[2023.11.23-15.44.10:026][433]AssetCheck: New page: Asset Save: BP_EventControlled_Trigger_Box
+[2023.11.23-15.44.10:026][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box
+[2023.11.23-15.44.11:072][532]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-15.44.11:079][532]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-15.44.11:083][532]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.44.11:083][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.45.21:561][968]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box_C
+[2023.11.23-15.45.21:561][968]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box_C
+[2023.11.23-15.45.21:562][968]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box as actor: BP_EventControlled_Trigger_Box_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Trigger_Box_C_0
+[2023.11.23-15.45.21:563][968]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box as actor: BP_EventControlled_Trigger_Box_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Trigger_Box_C_0
+[2023.11.23-15.45.22:322][ 33]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box_C
+[2023.11.23-15.45.22:322][ 33]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box_C
+[2023.11.23-15.45.22:324][ 33]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box as actor: BP_EventControlled_Trigger_Box_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Trigger_Box_C_1
+[2023.11.23-15.45.22:325][ 33]LogActorFactory: Actor Factory spawned Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box as actor: BP_EventControlled_Trigger_Box_C /Game/Project4/Maps/Testing.Testing:PersistentLevel.BP_EventControlled_Trigger_Box_C_1
+[2023.11.23-15.45.29:597][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.29:597][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.29:598][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_0
+[2023.11.23-15.45.29:598][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.29:598][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_0
+[2023.11.23-15.45.29:598][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.29:621][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.29:621][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.29:622][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_1
+[2023.11.23-15.45.29:622][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.29:647][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_1
+[2023.11.23-15.45.29:647][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.30:479][888]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.30:479][888]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.30:479][888]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_2
+[2023.11.23-15.45.30:479][888]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.30:479][888]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_2
+[2023.11.23-15.45.30:480][888]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.31:025][951]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.31:025][951]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.11.23-15.45.31:027][951]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_3
+[2023.11.23-15.45.31:027][951]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.31:027][951]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Project4/Maps/Testing.Testing:PersistentLevel.PlayerStart_3
+[2023.11.23-15.45.31:027][951]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.36:953][620]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.37:962][731]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.23-15.45.48:937][ 36]LogViewport: Scene viewport resized to 1345x493, mode Windowed.
+[2023.11.23-15.45.48:956][ 37]LogViewport: Scene viewport resized to 1345x494, mode Windowed.
+[2023.11.23-15.45.48:977][ 38]LogViewport: Scene viewport resized to 1345x497, mode Windowed.
+[2023.11.23-15.45.48:997][ 39]LogViewport: Scene viewport resized to 1345x502, mode Windowed.
+[2023.11.23-15.45.49:017][ 40]LogViewport: Scene viewport resized to 1345x506, mode Windowed.
+[2023.11.23-15.45.49:037][ 41]LogViewport: Scene viewport resized to 1345x510, mode Windowed.
+[2023.11.23-15.45.49:059][ 42]LogViewport: Scene viewport resized to 1345x517, mode Windowed.
+[2023.11.23-15.45.49:080][ 43]LogViewport: Scene viewport resized to 1345x524, mode Windowed.
+[2023.11.23-15.45.49:103][ 44]LogViewport: Scene viewport resized to 1345x531, mode Windowed.
+[2023.11.23-15.45.49:124][ 45]LogViewport: Scene viewport resized to 1345x540, mode Windowed.
+[2023.11.23-15.45.49:145][ 46]LogViewport: Scene viewport resized to 1345x548, mode Windowed.
+[2023.11.23-15.45.49:166][ 47]LogViewport: Scene viewport resized to 1345x553, mode Windowed.
+[2023.11.23-15.45.49:188][ 48]LogViewport: Scene viewport resized to 1345x557, mode Windowed.
+[2023.11.23-15.45.49:207][ 49]LogViewport: Scene viewport resized to 1345x562, mode Windowed.
+[2023.11.23-15.45.49:227][ 50]LogViewport: Scene viewport resized to 1345x568, mode Windowed.
+[2023.11.23-15.45.49:248][ 51]LogViewport: Scene viewport resized to 1345x573, mode Windowed.
+[2023.11.23-15.45.49:268][ 52]LogViewport: Scene viewport resized to 1345x579, mode Windowed.
+[2023.11.23-15.45.49:290][ 53]LogViewport: Scene viewport resized to 1345x581, mode Windowed.
+[2023.11.23-15.45.49:417][ 67]LogViewport: Scene viewport resized to 1345x579, mode Windowed.
+[2023.11.23-15.45.49:437][ 68]LogViewport: Scene viewport resized to 1345x576, mode Windowed.
+[2023.11.23-15.45.49:456][ 69]LogViewport: Scene viewport resized to 1345x574, mode Windowed.
+[2023.11.23-15.45.49:476][ 70]LogViewport: Scene viewport resized to 1345x570, mode Windowed.
+[2023.11.23-15.45.49:495][ 71]LogViewport: Scene viewport resized to 1345x568, mode Windowed.
+[2023.11.23-15.45.49:523][ 73]LogViewport: Scene viewport resized to 1345x567, mode Windowed.
+[2023.11.23-15.45.49:542][ 74]LogViewport: Scene viewport resized to 1345x565, mode Windowed.
+[2023.11.23-15.45.49:562][ 75]LogViewport: Scene viewport resized to 1345x564, mode Windowed.
+[2023.11.23-15.45.49:582][ 76]LogViewport: Scene viewport resized to 1345x563, mode Windowed.
+[2023.11.23-15.45.50:727][209]LogViewport: Scene viewport resized to 1345x561, mode Windowed.
+[2023.11.23-15.45.50:747][210]LogViewport: Scene viewport resized to 1345x560, mode Windowed.
+[2023.11.23-15.45.50:782][213]LogViewport: Scene viewport resized to 1345x558, mode Windowed.
+[2023.11.23-15.45.50:803][214]LogViewport: Scene viewport resized to 1345x556, mode Windowed.
+[2023.11.23-15.45.50:823][215]LogViewport: Scene viewport resized to 1345x553, mode Windowed.
+[2023.11.23-15.45.50:845][216]LogViewport: Scene viewport resized to 1345x549, mode Windowed.
+[2023.11.23-15.45.50:863][217]LogViewport: Scene viewport resized to 1345x545, mode Windowed.
+[2023.11.23-15.45.50:884][218]LogViewport: Scene viewport resized to 1345x543, mode Windowed.
+[2023.11.23-15.45.50:904][219]LogViewport: Scene viewport resized to 1345x542, mode Windowed.
+[2023.11.23-15.45.50:924][220]LogViewport: Scene viewport resized to 1345x540, mode Windowed.
+[2023.11.23-15.45.50:943][221]LogViewport: Scene viewport resized to 1345x538, mode Windowed.
+[2023.11.23-15.45.50:969][223]LogViewport: Scene viewport resized to 1345x536, mode Windowed.
+[2023.11.23-15.45.50:990][224]LogViewport: Scene viewport resized to 1345x533, mode Windowed.
+[2023.11.23-15.45.51:108][237]LogViewport: Scene viewport resized to 1345x531, mode Windowed.
+[2023.11.23-15.45.52:669][417]LogViewport: Scene viewport resized to 1344x531, mode Windowed.
+[2023.11.23-15.45.52:689][418]LogViewport: Scene viewport resized to 1346x531, mode Windowed.
+[2023.11.23-15.45.52:709][419]LogViewport: Scene viewport resized to 1348x531, mode Windowed.
+[2023.11.23-15.45.52:728][420]LogViewport: Scene viewport resized to 1353x531, mode Windowed.
+[2023.11.23-15.45.52:747][421]LogViewport: Scene viewport resized to 1359x531, mode Windowed.
+[2023.11.23-15.45.52:769][422]LogViewport: Scene viewport resized to 1370x531, mode Windowed.
+[2023.11.23-15.45.52:805][423]LogViewport: Scene viewport resized to 1381x531, mode Windowed.
+[2023.11.23-15.45.52:828][424]LogViewport: Scene viewport resized to 1397x531, mode Windowed.
+[2023.11.23-15.45.52:855][425]LogViewport: Scene viewport resized to 1414x531, mode Windowed.
+[2023.11.23-15.45.52:882][426]LogViewport: Scene viewport resized to 1441x531, mode Windowed.
+[2023.11.23-15.45.52:910][427]LogViewport: Scene viewport resized to 1466x531, mode Windowed.
+[2023.11.23-15.45.52:937][428]LogViewport: Scene viewport resized to 1476x531, mode Windowed.
+[2023.11.23-15.45.52:963][429]LogViewport: Scene viewport resized to 1477x531, mode Windowed.
+[2023.11.23-15.45.52:990][430]LogViewport: Scene viewport resized to 1480x531, mode Windowed.
+[2023.11.23-15.45.53:011][431]LogViewport: Scene viewport resized to 1486x531, mode Windowed.
+[2023.11.23-15.45.53:031][432]LogViewport: Scene viewport resized to 1488x531, mode Windowed.
+[2023.11.23-15.46.30:706][936]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.46.30:706][936]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.46.45:481][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.23-15.46.45:523][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Project4/Maps/Testing_Auto1
+[2023.11.23-15.46.45:523][645]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/Testing_Auto1C4C23ABD4ACA5190E8060D839E8D51D4.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/Autosaves/Game/Project4/Maps/Testing_Auto1.umap'
+[2023.11.23-15.46.45:524][645]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/michael/Documents/Unreal Projects/Project4/Saved/Autosaves/Game/Project4/Maps/Testing_Auto1.umap is in the /Temp path, will not scan.
+[2023.11.23-15.46.45:524][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.064
+[2023.11.23-15.46.45:524][645]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2023.11.23-15.51.26:001][350]LogDerivedDataCache: C:/Users/michael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:04:42.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 155761 files in 132057 folders with total size 20837 MiB.
+[2023.11.23-15.51.31:264][365]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.51.31:264][365]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.55.59:613][468]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/BPA_EventControlled_Actor.BPA_EventControlled_Actor
+[2023.11.23-15.55.59:613][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.55.59:613][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.56.09:915][397]LogSlate: Window 'BPA_EventControlled_Actor' being destroyed
+[2023.11.23-15.56.09:919][397]LogSlate: Window 'BPA_EventControlled_Actor' being destroyed
+[2023.11.23-15.56.09:923][397]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.56.09:923][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.56.16:740][208]LogViewport: Scene viewport resized to 1489x531, mode Windowed.
+[2023.11.23-15.56.16:761][209]LogViewport: Scene viewport resized to 1481x531, mode Windowed.
+[2023.11.23-15.56.16:783][210]LogViewport: Scene viewport resized to 1467x531, mode Windowed.
+[2023.11.23-15.56.16:805][211]LogViewport: Scene viewport resized to 1449x531, mode Windowed.
+[2023.11.23-15.56.16:825][212]LogViewport: Scene viewport resized to 1427x531, mode Windowed.
+[2023.11.23-15.56.16:845][213]LogViewport: Scene viewport resized to 1404x531, mode Windowed.
+[2023.11.23-15.56.16:868][214]LogViewport: Scene viewport resized to 1394x531, mode Windowed.
+[2023.11.23-15.56.16:929][220]LogViewport: Scene viewport resized to 1393x531, mode Windowed.
+[2023.11.23-15.56.16:949][221]LogViewport: Scene viewport resized to 1394x531, mode Windowed.
+[2023.11.23-15.56.16:986][224]LogViewport: Scene viewport resized to 1392x531, mode Windowed.
+[2023.11.23-15.56.17:008][225]LogViewport: Scene viewport resized to 1385x531, mode Windowed.
+[2023.11.23-15.56.17:028][226]LogViewport: Scene viewport resized to 1378x531, mode Windowed.
+[2023.11.23-15.56.17:049][227]LogViewport: Scene viewport resized to 1370x531, mode Windowed.
+[2023.11.23-15.56.17:070][228]LogViewport: Scene viewport resized to 1354x531, mode Windowed.
+[2023.11.23-15.56.17:090][229]LogViewport: Scene viewport resized to 1326x531, mode Windowed.
+[2023.11.23-15.56.17:111][230]LogViewport: Scene viewport resized to 1286x531, mode Windowed.
+[2023.11.23-15.56.17:132][231]LogViewport: Scene viewport resized to 1244x531, mode Windowed.
+[2023.11.23-15.56.17:152][232]LogViewport: Scene viewport resized to 1220x531, mode Windowed.
+[2023.11.23-15.56.17:173][233]LogViewport: Scene viewport resized to 1213x531, mode Windowed.
+[2023.11.23-15.56.17:194][234]LogViewport: Scene viewport resized to 1212x531, mode Windowed.
+[2023.11.23-15.56.17:263][241]LogViewport: Scene viewport resized to 1210x531, mode Windowed.
+[2023.11.23-15.56.17:286][242]LogViewport: Scene viewport resized to 1204x531, mode Windowed.
+[2023.11.23-15.56.17:306][243]LogViewport: Scene viewport resized to 1196x531, mode Windowed.
+[2023.11.23-15.56.17:327][244]LogViewport: Scene viewport resized to 1187x531, mode Windowed.
+[2023.11.23-15.56.17:347][245]LogViewport: Scene viewport resized to 1185x531, mode Windowed.
+[2023.11.23-15.56.17:375][247]LogViewport: Scene viewport resized to 1183x531, mode Windowed.
+[2023.11.23-15.56.17:412][250]LogViewport: Scene viewport resized to 1185x531, mode Windowed.
+[2023.11.23-15.56.17:482][257]LogViewport: Scene viewport resized to 1186x531, mode Windowed.
+[2023.11.23-15.56.31:515][926]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.56.31:515][926]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.57.33:950][413]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.11.23-15.57.33:950][413]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.11.23-15.57.58:323][309]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.11.23-15.58.00:232][538]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box
+[2023.11.23-15.58.00:232][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.58.00:232][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.00.19:474][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.00.19:480][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.00.19:480][764]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:00:19 AM)
+[2023.11.23-16.00.19:484][764]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.23-16.00.19:484][764]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.11.23-16.00.19:484][764]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.00.19:496][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012603s)
+[2023.11.23-16.00.19:496][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.012651s)
+[2023.11.23-16.00.19:512][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.23-16.00.19:517][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.00.19:517][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.00.19:519][764]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.00.19:519][764]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2023.11.23-16.00.19:519][764]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.00.19:519][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.00.19:519][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.00.19:520][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.00.19:520][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.00.19:520][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.00.19:522][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.00.19:539][764]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.00.19:540][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.00.19:540][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.00.19:540][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.00.19:540][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.23-16.00.19:540][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.23-16.00.19:542][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.23-16.00.19:542][764]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.23-16.00.19:542][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.23-16.00.19:542][764]LogAudio: Display: Audio Device (ID: 2) registered with world 'Testing'.
+[2023.11.23-16.00.19:542][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.23-16.00.19:544][764]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.00.19:547][764]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.00.19
+[2023.11.23-16.00.19:547][764]LogWorld: Bringing up level for play took: 0.002421
+[2023.11.23-16.00.19:549][764]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.11.23-16.00.19:581][764]PIE: Server logged in
+[2023.11.23-16.00.19:582][764]PIE: Play in editor total start time 0.102 seconds.
+[2023.11.23-16.00.32:390][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.00.32:391][263]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.00.32:391][263]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.00.32:391][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.00.32:397][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.00.32:402][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.00.32:415][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-16.00.32:415][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.23-16.00.32:415][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.23-16.00.32:417][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.23-16.00.32:420][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.00.32:423][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.23-16.00.32:466][264]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.11.23-16.01.31:771][270]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.01.31:772][270]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-16.02.02:671][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.02.02:677][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.02.02:677][918]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:02:02 AM)
+[2023.11.23-16.02.02:677][918]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.02.02:689][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011850s)
+[2023.11.23-16.02.02:689][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.011884s)
+[2023.11.23-16.02.02:703][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.23-16.02.02:708][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.02.02:708][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.02.02:708][918]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.02.02:709][918]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.11.23-16.02.02:709][918]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.02.02:709][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.02.02:709][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.02.02:709][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.02.02:709][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.02.02:709][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.02.02:711][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.02.02:728][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.02.02:729][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.02.02:730][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.02.02:730][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.02.02:732][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.11.23-16.02.02:732][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.11.23-16.02.02:734][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.11.23-16.02.02:734][918]LogInit: FAudioDevice initialized with ID 3.
+[2023.11.23-16.02.02:734][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.11.23-16.02.02:734][918]LogAudio: Display: Audio Device (ID: 3) registered with world 'Testing'.
+[2023.11.23-16.02.02:734][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.11.23-16.02.02:735][918]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.02.02:738][918]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.02.02
+[2023.11.23-16.02.02:738][918]LogWorld: Bringing up level for play took: 0.002347
+[2023.11.23-16.02.02:740][918]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.11.23-16.02.02:742][918]PIE: Server logged in
+[2023.11.23-16.02.02:743][918]PIE: Play in editor total start time 0.066 seconds.
+[2023.11.23-16.02.07:301][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.02.07:301][439]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.02.07:302][439]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.02.07:302][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.02.07:306][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.02.07:310][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.02.07:323][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.02.07:324][439]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.11.23-16.02.07:324][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.23-16.02.07:326][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.23-16.02.07:332][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.23-16.02.07:374][440]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.11.23-16.02.10:885][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.02.10:891][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.02.10:891][857]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:02:10 AM)
+[2023.11.23-16.02.10:891][857]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.02.10:902][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011362s)
+[2023.11.23-16.02.10:902][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.011391s)
+[2023.11.23-16.02.10:914][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.23-16.02.10:915][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.02.10:915][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.02.10:916][857]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.02.10:916][857]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2023.11.23-16.02.10:916][857]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.02.10:916][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.02.10:916][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.02.10:917][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.02.10:917][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.02.10:917][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.02.10:918][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.02.10:935][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.02.10:935][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.02.10:935][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.02.10:935][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.02.10:936][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.11.23-16.02.10:936][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.11.23-16.02.10:937][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.11.23-16.02.10:937][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.11.23-16.02.10:937][857]LogInit: FAudioDevice initialized with ID 4.
+[2023.11.23-16.02.10:937][857]LogAudio: Display: Audio Device (ID: 4) registered with world 'Testing'.
+[2023.11.23-16.02.10:937][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.11.23-16.02.10:939][857]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.02.10:942][857]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.02.10
+[2023.11.23-16.02.10:942][857]LogWorld: Bringing up level for play took: 0.002237
+[2023.11.23-16.02.10:944][857]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.11.23-16.02.10:945][857]PIE: Server logged in
+[2023.11.23-16.02.10:946][857]PIE: Play in editor total start time 0.056 seconds.
+[2023.11.23-16.02.20:281][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.02.20:281][961]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.02.20:281][961]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.02.20:282][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.02.20:285][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.02.20:289][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.02.20:302][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.02.20:303][961]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.11.23-16.02.20:303][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.23-16.02.20:305][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.23-16.02.20:310][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.23-16.02.20:370][963]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.11.23-16.02.43:335][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.02.43:340][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.02.43:340][669]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:02:43 AM)
+[2023.11.23-16.02.43:341][669]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.02.43:352][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011151s)
+[2023.11.23-16.02.43:352][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.011181s)
+[2023.11.23-16.02.43:366][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.23-16.02.43:369][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.02.43:369][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.02.43:369][669]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.02.43:369][669]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2023.11.23-16.02.43:369][669]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.02.43:369][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.02.43:369][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.02.43:370][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.02.43:370][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.02.43:370][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.02.43:371][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.02.43:388][669]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.02.43:389][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.02.43:389][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.02.43:389][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.02.43:389][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.23-16.02.43:389][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.11.23-16.02.43:391][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.23-16.02.43:391][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.23-16.02.43:391][669]LogInit: FAudioDevice initialized with ID 5.
+[2023.11.23-16.02.43:391][669]LogAudio: Display: Audio Device (ID: 5) registered with world 'Testing'.
+[2023.11.23-16.02.43:391][669]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.23-16.02.43:393][669]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.02.43:395][669]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.02.43
+[2023.11.23-16.02.43:395][669]LogWorld: Bringing up level for play took: 0.002218
+[2023.11.23-16.02.43:397][669]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.11.23-16.02.43:399][669]PIE: Server logged in
+[2023.11.23-16.02.43:399][669]PIE: Play in editor total start time 0.059 seconds.
+[2023.11.23-16.02.56:371][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.02.56:371][208]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.02.56:371][208]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.02.56:372][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.02.56:376][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.02.56:380][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.02.56:394][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.02.56:394][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.23-16.02.56:395][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.23-16.02.56:396][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.23-16.02.56:402][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.23-16.02.56:444][209]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.23-16.03.44:492][836]LogViewport: Scene viewport resized to 1185x531, mode Windowed.
+[2023.11.23-16.03.44:520][837]LogViewport: Scene viewport resized to 1182x531, mode Windowed.
+[2023.11.23-16.03.44:562][840]LogViewport: Scene viewport resized to 1180x531, mode Windowed.
+[2023.11.23-16.03.44:590][841]LogViewport: Scene viewport resized to 1175x531, mode Windowed.
+[2023.11.23-16.03.44:617][842]LogViewport: Scene viewport resized to 1168x531, mode Windowed.
+[2023.11.23-16.03.44:643][843]LogViewport: Scene viewport resized to 1165x531, mode Windowed.
+[2023.11.23-16.03.44:668][844]LogViewport: Scene viewport resized to 1162x531, mode Windowed.
+[2023.11.23-16.03.44:696][845]LogViewport: Scene viewport resized to 1159x531, mode Windowed.
+[2023.11.23-16.03.44:723][846]LogViewport: Scene viewport resized to 1152x531, mode Windowed.
+[2023.11.23-16.03.44:747][847]LogViewport: Scene viewport resized to 1144x531, mode Windowed.
+[2023.11.23-16.03.44:773][848]LogViewport: Scene viewport resized to 1128x531, mode Windowed.
+[2023.11.23-16.03.44:797][849]LogViewport: Scene viewport resized to 1119x531, mode Windowed.
+[2023.11.23-16.03.44:823][850]LogViewport: Scene viewport resized to 1110x531, mode Windowed.
+[2023.11.23-16.03.44:851][851]LogViewport: Scene viewport resized to 1100x531, mode Windowed.
+[2023.11.23-16.03.44:876][852]LogViewport: Scene viewport resized to 1087x531, mode Windowed.
+[2023.11.23-16.03.44:902][853]LogViewport: Scene viewport resized to 1077x531, mode Windowed.
+[2023.11.23-16.03.44:929][854]LogViewport: Scene viewport resized to 1068x531, mode Windowed.
+[2023.11.23-16.04.58:147][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.04.58:153][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.04.58:153][517]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:04:58 AM)
+[2023.11.23-16.04.58:153][517]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.04.58:166][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012245s)
+[2023.11.23-16.04.58:166][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.012273s)
+[2023.11.23-16.04.58:180][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.23-16.04.58:185][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.04.58:185][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.04.58:185][517]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.04.58:185][517]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2023.11.23-16.04.58:185][517]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.04.58:185][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.04.58:185][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.04.58:186][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.04.58:186][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.04.58:186][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.04.58:188][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.04.58:205][517]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.04.58:205][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.04.58:205][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.04.58:205][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.04.58:206][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.11.23-16.04.58:207][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.11.23-16.04.58:208][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.11.23-16.04.58:208][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.11.23-16.04.58:208][517]LogInit: FAudioDevice initialized with ID 6.
+[2023.11.23-16.04.58:208][517]LogAudio: Display: Audio Device (ID: 6) registered with world 'Testing'.
+[2023.11.23-16.04.58:208][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.23-16.04.58:210][517]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.04.58:212][517]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.04.58
+[2023.11.23-16.04.58:212][517]LogWorld: Bringing up level for play took: 0.002244
+[2023.11.23-16.04.58:214][517]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.11.23-16.04.58:216][517]PIE: Server logged in
+[2023.11.23-16.04.58:216][517]PIE: Play in editor total start time 0.063 seconds.
+[2023.11.23-16.05.08:830][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.05.08:830][774]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.05.08:831][774]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.05.08:831][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.05.08:835][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.05.08:839][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.05.08:854][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-16.05.08:854][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.23-16.05.08:854][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.23-16.05.08:854][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.23-16.05.08:858][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.05.08:861][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.23-16.05.08:903][775]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.11.23-16.05.58:450][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.05.58:456][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.05.58:456][629]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:05:58 AM)
+[2023.11.23-16.05.58:456][629]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.05.58:467][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011350s)
+[2023.11.23-16.05.58:468][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.011380s)
+[2023.11.23-16.05.58:481][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.23-16.05.58:484][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.05.58:484][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.05.58:485][629]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.05.58:485][629]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2023.11.23-16.05.58:485][629]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.05.58:485][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.05.58:485][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.05.58:486][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.05.58:486][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.05.58:486][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.05.58:487][629]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.05.58:504][629]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.05.58:504][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.05.58:504][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.05.58:504][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.05.58:505][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.23-16.05.58:505][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.23-16.05.58:506][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.23-16.05.58:506][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.23-16.05.58:506][629]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.23-16.05.58:506][629]LogAudio: Display: Audio Device (ID: 7) registered with world 'Testing'.
+[2023.11.23-16.05.58:506][629]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.23-16.05.58:509][629]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.05.58:511][629]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.05.58
+[2023.11.23-16.05.58:511][629]LogWorld: Bringing up level for play took: 0.002209
+[2023.11.23-16.05.58:513][629]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.11.23-16.05.58:515][629]PIE: Server logged in
+[2023.11.23-16.05.58:515][629]PIE: Play in editor total start time 0.059 seconds.
+[2023.11.23-16.06.07:360][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.06.07:360][682]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.06.07:361][682]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.06.07:361][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.06.07:365][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.06.07:370][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.06.07:384][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.06.07:385][682]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.23-16.06.07:385][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.23-16.06.07:386][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.23-16.06.07:392][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.23-16.06.07:433][683]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.11.23-16.06.28:673][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.06.30:902][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-16.06.30:908][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.23-16.06.30:908][854]PIE: New page: PIE session: Testing (Nov 23, 2023, 6:06:30 AM)
+[2023.11.23-16.06.30:908][854]LogPlayLevel: Creating play world package: /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.06.30:919][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011287s)
+[2023.11.23-16.06.30:919][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project4/Maps/Testing.Testing to /Game/Project4/Maps/UEDPIE_0_Testing.Testing (0.011317s)
+[2023.11.23-16.06.30:934][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.23-16.06.30:936][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.06.30:936][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.06.30:936][854]LogAIModule: Creating AISystem for world Testing
+[2023.11.23-16.06.30:937][854]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2023.11.23-16.06.30:937][854]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-16.06.30:937][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.23-16.06.30:937][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-16.06.30:937][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-16.06.30:937][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-16.06.30:937][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-16.06.30:939][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-16.06.30:956][854]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2023.11.23-16.06.30:956][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-16.06.30:956][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-16.06.30:956][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-16.06.30:957][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.23-16.06.30:957][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.23-16.06.30:958][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.23-16.06.30:958][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.23-16.06.30:958][854]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.23-16.06.30:958][854]LogAudio: Display: Audio Device (ID: 8) registered with world 'Testing'.
+[2023.11.23-16.06.30:958][854]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.23-16.06.30:961][854]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-16.06.30:963][854]LogWorld: Bringing World /Game/Project4/Maps/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.23-11.06.30
+[2023.11.23-16.06.30:963][854]LogWorld: Bringing up level for play took: 0.002166
+[2023.11.23-16.06.30:965][854]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.11.23-16.06.30:967][854]PIE: Server logged in
+[2023.11.23-16.06.30:967][854]PIE: Play in editor total start time 0.059 seconds.
+[2023.11.23-16.06.32:027][979]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-16.06.32:027][979]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-16.06.36:541][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.06.36:541][513]LogWorld: BeginTearingDown for /Game/Project4/Maps/UEDPIE_0_Testing
+[2023.11.23-16.06.36:542][513]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.06.36:542][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.06.36:546][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-16.06.36:551][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.06.36:564][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-16.06.36:564][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.23-16.06.36:565][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.23-16.06.36:566][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.23-16.06.36:572][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.23-16.06.36:616][514]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.23-16.06.43:482][335]LogViewport: Scene viewport resized to 1069x531, mode Windowed.
+[2023.11.23-16.06.43:508][336]LogViewport: Scene viewport resized to 1074x531, mode Windowed.
+[2023.11.23-16.06.43:537][337]LogViewport: Scene viewport resized to 1097x531, mode Windowed.
+[2023.11.23-16.06.43:566][338]LogViewport: Scene viewport resized to 1132x531, mode Windowed.
+[2023.11.23-16.06.43:594][339]LogViewport: Scene viewport resized to 1188x531, mode Windowed.
+[2023.11.23-16.06.43:622][340]LogViewport: Scene viewport resized to 1256x531, mode Windowed.
+[2023.11.23-16.06.43:648][341]LogViewport: Scene viewport resized to 1316x531, mode Windowed.
+[2023.11.23-16.06.43:675][342]LogViewport: Scene viewport resized to 1370x531, mode Windowed.
+[2023.11.23-16.06.43:702][343]LogViewport: Scene viewport resized to 1399x531, mode Windowed.
+[2023.11.23-16.06.43:730][344]LogViewport: Scene viewport resized to 1412x531, mode Windowed.
+[2023.11.23-16.06.43:757][345]LogViewport: Scene viewport resized to 1416x531, mode Windowed.
+[2023.11.23-16.06.43:799][348]LogViewport: Scene viewport resized to 1418x531, mode Windowed.
+[2023.11.23-16.06.43:824][349]LogViewport: Scene viewport resized to 1425x531, mode Windowed.
+[2023.11.23-16.06.43:849][350]LogViewport: Scene viewport resized to 1440x531, mode Windowed.
+[2023.11.23-16.06.43:876][351]LogViewport: Scene viewport resized to 1448x531, mode Windowed.
+[2023.11.23-16.06.44:791][458]LogViewport: Scene viewport resized to 1448x530, mode Windowed.
+[2023.11.23-16.06.44:818][459]LogViewport: Scene viewport resized to 1448x526, mode Windowed.
+[2023.11.23-16.06.44:845][460]LogViewport: Scene viewport resized to 1448x513, mode Windowed.
+[2023.11.23-16.06.44:871][461]LogViewport: Scene viewport resized to 1448x492, mode Windowed.
+[2023.11.23-16.06.44:898][462]LogViewport: Scene viewport resized to 1448x465, mode Windowed.
+[2023.11.23-16.06.44:924][463]LogViewport: Scene viewport resized to 1448x440, mode Windowed.
+[2023.11.23-16.06.44:950][464]LogViewport: Scene viewport resized to 1448x422, mode Windowed.
+[2023.11.23-16.06.44:976][465]LogViewport: Scene viewport resized to 1448x410, mode Windowed.
+[2023.11.23-16.06.45:000][466]LogViewport: Scene viewport resized to 1448x397, mode Windowed.
+[2023.11.23-16.06.45:026][467]LogViewport: Scene viewport resized to 1448x383, mode Windowed.
+[2023.11.23-16.06.45:051][468]LogViewport: Scene viewport resized to 1448x373, mode Windowed.
+[2023.11.23-16.06.45:077][469]LogViewport: Scene viewport resized to 1448x361, mode Windowed.
+[2023.11.23-16.06.45:103][470]LogViewport: Scene viewport resized to 1448x349, mode Windowed.
+[2023.11.23-16.06.45:131][471]LogViewport: Scene viewport resized to 1448x342, mode Windowed.
+[2023.11.23-16.06.50:002][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component.BP_EventController_Component
+[2023.11.23-16.06.50:003][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.06.50:003][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.06.54:114][331]LogSlate: Window 'BP_EventController_Component' being destroyed
+[2023.11.23-16.06.54:120][331]LogSlate: Window 'BP_EventController_Component' being destroyed
+[2023.11.23-16.06.54:124][331]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.06.54:124][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.06.54:152][331]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.06.54:152][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.07.00:649][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Camera/BP_EventControlled_CameraManager.BP_EventControlled_CameraManager
+[2023.11.23-16.07.00:649][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-16.07.00:649][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-16.08.14:251][492]BlueprintLog: New page: Compile BP_EventControlled_CameraManager
+[2023.11.23-16.08.14:285][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.23-16.08.14:437][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-16.08.14:498][492]LogSavePackage: Moving output files for package: /Game/Project4/Blueprints/Component/EventController/Actors/Camera/BP_EventControlled_CameraManager
+[2023.11.23-16.08.14:498][492]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/BP_EventControlled_CameraManagerD8AF7F8644382A12958E29AFFABD57F4.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Blueprints/Component/EventController/Actors/Camera/BP_EventControlled_CameraManager.uasset'
+[2023.11.23-16.08.14:506][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 6.91 sec)
+[2023.11.23-16.08.14:507][492]AssetCheck: New page: Asset Save: BP_EventControlled_CameraManager
+[2023.11.23-16.08.14:507][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Camera/BP_EventControlled_CameraManager.BP_EventControlled_CameraManager
+[2023.11.23-16.08.18:503][843]LogSlate: Window 'BP_EventControlled_CameraManager' being destroyed
+[2023.11.23-16.08.18:510][843]LogSlate: Window 'BP_EventControlled_CameraManager' being destroyed
+[2023.11.23-16.08.18:514][843]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-16.08.18:514][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:637][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.28:638][988]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-16.08.32:183][988]LogSlate: Window 'Submit Files' being destroyed
+[2023.11.23-16.08.32:687][988]LogSourceControl: commit successful: [main a2a3ceb] snap
+[2023.11.23-16.08.32:929][988]SourceControl: [main a2a3ceb] snap
+[2023.11.23-16.08.32:929][988]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2023.11.23-16.08.32:942][988]SourceControl: Commited [main a2a3ceb] snap.
