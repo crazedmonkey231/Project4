@@ -2214,3 +2214,117 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.11.23-15.02.52:356][377]SourceControl:  create mode 100644 Content/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BPA_EventControlled_Marker_Actor.uasset
 [2023.11.23-15.02.52:356][377]SourceControl:  create mode 100644 Content/Project4/Blueprints/Component/EventController/Actors/Other/Marker/BP_EventControlled_Marker_Actor_Child.uasset
 [2023.11.23-15.02.52:368][377]SourceControl: Commited [main 528de1e] snap.
+[2023.11.23-15.03.18:898][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.23-15.03.18:899][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.018
+[2023.11.23-15.06.27:937][734]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.06.27:937][734]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.08.16:973][395]LogViewport: Scene viewport resized to 1149x389, mode Windowed.
+[2023.11.23-15.08.16:993][396]LogViewport: Scene viewport resized to 1151x389, mode Windowed.
+[2023.11.23-15.08.17:013][397]LogViewport: Scene viewport resized to 1155x389, mode Windowed.
+[2023.11.23-15.08.17:034][398]LogViewport: Scene viewport resized to 1157x389, mode Windowed.
+[2023.11.23-15.08.17:060][399]LogViewport: Scene viewport resized to 1164x389, mode Windowed.
+[2023.11.23-15.08.17:080][400]LogViewport: Scene viewport resized to 1170x389, mode Windowed.
+[2023.11.23-15.08.17:103][401]LogViewport: Scene viewport resized to 1187x389, mode Windowed.
+[2023.11.23-15.08.17:127][402]LogViewport: Scene viewport resized to 1211x389, mode Windowed.
+[2023.11.23-15.08.17:151][403]LogViewport: Scene viewport resized to 1236x389, mode Windowed.
+[2023.11.23-15.08.17:174][404]LogViewport: Scene viewport resized to 1255x389, mode Windowed.
+[2023.11.23-15.08.17:197][405]LogViewport: Scene viewport resized to 1272x389, mode Windowed.
+[2023.11.23-15.08.17:218][406]LogViewport: Scene viewport resized to 1291x389, mode Windowed.
+[2023.11.23-15.08.17:240][407]LogViewport: Scene viewport resized to 1308x389, mode Windowed.
+[2023.11.23-15.08.17:265][408]LogViewport: Scene viewport resized to 1326x389, mode Windowed.
+[2023.11.23-15.08.17:286][409]LogViewport: Scene viewport resized to 1333x389, mode Windowed.
+[2023.11.23-15.08.17:312][410]LogViewport: Scene viewport resized to 1340x389, mode Windowed.
+[2023.11.23-15.08.17:336][411]LogViewport: Scene viewport resized to 1342x389, mode Windowed.
+[2023.11.23-15.08.17:357][412]LogViewport: Scene viewport resized to 1345x389, mode Windowed.
+[2023.11.23-15.11.10:334][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component.BP_EventController_Component
+[2023.11.23-15.11.10:334][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.11.10:334][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.11.28:191][528]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.11.28:192][528]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
+[2023.11.23-15.13.42:377][369]BlueprintLog: New page: Compile BP_EventController_Component
+[2023.11.23-15.13.42:463][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.23-15.13.42:606][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-15.13.42:726][369]LogSavePackage: Moving output files for package: /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component
+[2023.11.23-15.13.42:726][369]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/BP_EventController_Component03D3B10E45C823E8A4B316A298B99899.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Blueprints/Component/EventController/BP_EventController_Component.uasset'
+[2023.11.23-15.13.42:733][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 6.32 sec)
+[2023.11.23-15.13.42:739][369]AssetCheck: New page: Asset Save: BP_EventController_Component
+[2023.11.23-15.13.42:739][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component.BP_EventController_Component
+[2023.11.23-15.13.50:128][203]Cmd: TRANSACTION UNDO
+[2023.11.23-15.13.50:128][203]LogEditorTransaction: Undo Change Enum Pin Value
+[2023.11.23-15.13.55:245][731]Cmd: TRANSACTION REDO
+[2023.11.23-15.13.55:245][731]LogEditorTransaction: Redo Change Enum Pin Value
+[2023.11.23-15.14.01:802][399]BlueprintLog: New page: Compile BP_EventController_Component
+[2023.11.23-15.14.01:887][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.23-15.14.02:042][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.23-15.14.02:148][399]LogSavePackage: Moving output files for package: /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component
+[2023.11.23-15.14.02:149][399]LogSavePackage: Moving 'C:/Users/michael/Documents/Unreal Projects/Project4/Saved/BP_EventController_Component14E04D6D4E09808D3B1F309FA74ACAA9.tmp' to 'C:/Users/michael/Documents/Unreal Projects/Project4/Content/Project4/Blueprints/Component/EventController/BP_EventController_Component.uasset'
+[2023.11.23-15.14.02:155][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 6.43 sec)
+[2023.11.23-15.14.02:163][399]AssetCheck: New page: Asset Save: BP_EventController_Component
+[2023.11.23-15.14.02:163][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Project4/Blueprints/Component/EventController/BP_EventController_Component.BP_EventController_Component
+[2023.11.23-15.14.13:983][723]LogSlate: Window 'BP_EventController_Component' being destroyed
+[2023.11.23-15.14.13:989][723]LogSlate: Window 'BP_EventController_Component' being destroyed
+[2023.11.23-15.14.13:993][723]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.14.13:993][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.14.20:982][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project4/Blueprints/Component/EventController/Actors/Other/Base/Trigger/BP_EventControlled_Trigger_Box.BP_EventControlled_Trigger_Box
+[2023.11.23-15.14.20:982][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-15.14.20:982][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-15.14.23:514][765]BlueprintLog: New page: Compile BP_EventControlled_Trigger_Box
+[2023.11.23-15.14.23:547][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.23-15.14.32:526][684]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-15.14.32:532][684]LogSlate: Window 'BP_EventControlled_Trigger_Box' being destroyed
+[2023.11.23-15.14.32:535][684]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-15.14.32:535][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-15.15.00:601][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.23-15.15.00:604][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Project4/Maps/Testing' took 0.018
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.22:953][812]SourceControl: fatal: F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'F:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/michael/Documents/Unreal Projects/Project4'
+[2023.11.23-15.16.28:160][812]LogSlate: Window 'Submit Files' being destroyed
+[2023.11.23-15.16.28:479][812]LogSourceControl: commit successful: [main a07b431] snap
+[2023.11.23-15.16.28:555][812]SourceControl: [main a07b431] snap
+[2023.11.23-15.16.28:555][812]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.11.23-15.16.28:571][812]SourceControl: Commited [main a07b431] snap.
+[2023.11.23-15.16.28:844][819]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/': No such file or directory
+[2023.11.23-15.16.28:844][819]SourceControl: Error: warning: could not open directory 'Content/Project4/Blueprints/Component/EventController/Actors/Basic/Base/': No such file or directory
